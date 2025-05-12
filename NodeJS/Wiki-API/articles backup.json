@@ -1,0 +1,26 @@
+	{
+        "_id": "5fff2ea9c952d24841bf71a0",
+        "title": "REST",
+        "content": "REST is short for REpresentational State Transfer."
+    },
+    {
+        "_id": "5fff2f3cc952d24841bf71a1",
+        "title": "API",
+        "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+    },
+    {
+        "_id": "5fff2f4dc952d24841bf71a2",
+        "title": "Bootstrap",
+        "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+    },
+    {
+        "_id": "5fff2f5cc952d24841bf71a3",
+        "title": "DOM",
+        "content": "The Document Object Model is like an API for interacting with our HTML"
+    },
+    {
+        "_id": "5fff3acc492fb5567c90ed1b",
+        "title": "Jack Bauer",
+        "content": "At in tellus integer feugiat scelerisque varius. Leo urna molestie at elementum eu facilisis sed odio morbi. Volutpat maecenas volutpat blandit aliquam etiam. Eget egestas purus viverra accumsan in. Sit amet massa vitae tortor condimentum lacinia quis vel. Duis ultricies lacus sed turpis tincidunt id. Tortor pretium viverra suspendisse potenti. Dictum at tempor commodo ullamcorper a lacus vestibulum sed. Praesent elementum facilisis leo vel fringilla est ullamcorper. In metus vulputate eu scelerisque felis imperdiet. Vitae ultricies leo integer malesuada nunc vel risus.",
+        "__v": 0
+    }
